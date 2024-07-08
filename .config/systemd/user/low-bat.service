@@ -1,0 +1,11 @@
+[Unit]
+Description=low battery not
+Wants=low-bat.timer
+
+[Service]
+Type=oneshot
+ExecStart=/home/john/source/programs/bat-not
+
+[Install]
+WantedBy=default.target
+

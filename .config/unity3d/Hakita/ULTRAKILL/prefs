@@ -1,0 +1,43 @@
+<unity_prefs version_major="1" version_minor="1">
+	<pref name="ColCom" type="int">2</pref>
+	<pref name="CurArm" type="int">0</pref>
+	<pref name="CurSlo" type="int">1</pref>
+	<pref name="CurVar" type="int">1</pref>
+	<pref name="Diff" type="int">2</pref>
+	<pref name="FirVar" type="int">0</pref>
+	<pref name="FullIntro" type="int">0</pref>
+	<pref name="LasSlo" type="int">6</pref>
+	<pref name="LasVar" type="int">0</pref>
+	<pref name="LevStaOpe" type="int">0</pref>
+	<pref name="LevStaTut" type="int">1</pref>
+	<pref name="MaVo" type="float">0.2</pref>
+	<pref name="MuVo" type="float">0</pref>
+	<pref name="Screenmanager Fullscreen mode" type="int">1</pref>
+	<pref name="Screenmanager Fullscreen mode Default" type="int">2</pref>
+	<pref name="Screenmanager Resolution Height" type="int">1080</pref>
+	<pref name="Screenmanager Resolution Height Default" type="int">768</pref>
+	<pref name="Screenmanager Resolution Use Native" type="int">1</pref>
+	<pref name="Screenmanager Resolution Use Native Default" type="int">1</pref>
+	<pref name="Screenmanager Resolution Width" type="int">1920</pref>
+	<pref name="Screenmanager Resolution Width Default" type="int">1024</pref>
+	<pref name="SiEn" type="int">0</pref>
+	<pref name="SiEnDi" type="float">0</pref>
+	<pref name="TooDee" type="int">1</pref>
+	<pref name="UnitySelectMonitor" type="int">0</pref>
+	<pref name="VerWar" type="int">2</pref>
+	<pref name="nai0" type="int">0</pref>
+	<pref name="nai1" type="int">0</pref>
+	<pref name="nai2" type="int">0</pref>
+	<pref name="nai3" type="int">0</pref>
+	<pref name="rev0" type="int">1</pref>
+	<pref name="rev1" type="int">0</pref>
+	<pref name="rev2" type="int">1</pref>
+	<pref name="rev3" type="int">0</pref>
+	<pref name="sho0" type="int">0</pref>
+	<pref name="sho1" type="int">0</pref>
+	<pref name="sho2" type="int">0</pref>
+	<pref name="sho3" type="int">0</pref>
+	<pref name="unity.cloud_userid" type="string">MmI5M2Q5OWNhOWY1ZTNkMjNiZDM4ZDU0ZGZkMDlmYjE=</pref>
+	<pref name="unity.player_session_count" type="string">MTM=</pref>
+	<pref name="unity.player_sessionid" type="string">MTE3MDIxNDQ4ODcxNTEzNTIxNA==</pref>
+</unity_prefs>

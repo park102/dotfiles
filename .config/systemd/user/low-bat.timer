@@ -1,0 +1,9 @@
+[Unit]
+Description=runs the low-bat service every 30 seconds
+Requires=low-bat.service
+[Timer]
+Unit=low-bat.service
+OnUnitInactiveSec=10seconds
+
+[Install]
+WantedBy=timers.target
